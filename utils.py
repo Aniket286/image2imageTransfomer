@@ -1,5 +1,5 @@
 from torch.utils.data import DataLoader
-from vggmodified import Vgg16
+from vggmodified import VGG16Modified
 from torch.autograd import Variable
 from torch.optim import lr_scheduler
 from torchvision import transforms
